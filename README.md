@@ -1,3 +1,3 @@
 #Check temperature and humidity sensor
 
-![rbpi test model] (https://prnt.sc/qozoky)
+![test](https://user-images.githubusercontent.com/6640934/72607862-19a6e880-392a-11ea-86aa-65a7b61ff88c.png)
